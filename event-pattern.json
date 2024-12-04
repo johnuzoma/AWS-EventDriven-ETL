@@ -1,0 +1,19 @@
+{
+    "source": ["aws.s3"],
+    "detail-type": ["Object Created"],
+    "detail": {
+      "bucket": {
+        "name": ["mybucket-dec-2024"]
+      },
+      "object": {
+        "key": [{
+          "prefix": "landing-zone"
+        }]
+      },
+      "object": {
+        "key": [{
+          "suffix": ".xlsx"
+        }]
+      }
+    }
+  }
