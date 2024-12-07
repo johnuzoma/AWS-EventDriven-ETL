@@ -1,5 +1,8 @@
 # AWS-EventDriven-ETL
 
+#### Solution Architecture
+![AWS-Event-Driven-ETL drawio](https://github.com/user-attachments/assets/3c9494cc-9bf2-4612-b256-899971ad9821)
+
 #### Purpose
 I created this project to demonstrate my skills in event-driven applications.
 
